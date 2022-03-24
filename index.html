@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--meta code must be added-->
+  <!---------------- Tiitle ----------------->
+  <title>eFresh Store</title>
+  <!--------------Stylesheet------------------>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!--Favicon ------->
+  <link rel="shortcut icon" href="images/favicon.png" />
+  <!----using fontawesome-------->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.0/css/all.css" integrity="sha384-eLT4eRYPHTmTsFGFAzjcCWX+wHfUInVWNm9YnwpiatljsZOwXtwV2Hh6sHM6zZD9" crossorigin="anonymous" />
+
+  <!---==Import font family--->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,
+    600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Navigation  ------>
+  <nav class="navigation">
+    <!----logo--->
+    <a href="index.html" class="logo">
+      <span>e</span>Fresh
+    </a>
+    <!--menu-btn-->
+    <input type="checkbox" class="menu-btn" id="menu-btn">
+    <label for="menu-btn" class="menu-icon">
+      <span class="nav-icon"></span>
+    </label>
+    <!--- menu------>
+    <ul class="menu">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="#category">Categories</a></li>
+      <li><a href="#popular-bundle-pack">Packages</a></li>
+      <li><a href="#download-app">App</a></li>
+    </ul>
+    <!---- right-nav-(cart-like)--->
+    <div class="right-nav">
+      <!---like----->
+      <a href="#" class="like">
+        <i class="far fa-heart"></i>
+        <span>0</span>
+      </a>
+      <!---cart----->
+      <a href="#" class="cart">
+        <i class="fa fa-shopping-cart"></i>
+        <span>0</span>
+      </a>
+
+    </div>
+  </nav>
+  <!--nav-end---------->
+
+
+
+
+
+
+
+
+
+
+  <!-- Search-banner=--->
+  <section id="search-banner">
+    <!---bg------>
+    <img src="images/tomato.png" class="bg-1" alt="bg">
+    <img src="images/salad.png" class="bg-2" alt="bg-2">
+
+    <!---text---->
+    <div class="search-banner-text">
+      <h1>Order your groceries for the day</h1>
+      <strong>#Free Delivery</strong>
+      <!---search box----->
+      <form class="search-box" action="">
+        <!--icon---->
+        <i class="fas fa-search"></i>
+        <!---input-->
+        <input type="text" class="search-input" placeholder="Search your daily grocery" name="search" required>
+        <!--btn---->
+        <input type="submit" class="btn" value="Search">
+
+      </form>
+
+    </div>
+
+  </section>
+  <!--search-banner-end------->
+  <!--category--->
+  <section id="category">
+    <!---heading--->
+    <div class="category-heading">
+      <h2>Categories</h2>
+      <span></span>
+    </div>
+    <!--box-container-->
+    <div class="category-container">
+      <!---box---->
+      <a href="#" class="category-box">
+        <img src="images/fish.png" alt="Fish" width="70px" height="70px">
+        <span>Fish & Meat</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/vegetable.png" alt="Fish" width="70px" height="70px">
+        <span>Vegetables</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/medicine.png" alt="Fish" width="70px" height="70px">
+        <span>Medicine</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/baby.png" alt="Fish" width="70px" height="70px">
+        <span>Baby</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/office.png" alt="Fish" width="70px" height="70px">
+        <span>Office</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/beauty.png" alt="Fish" width="70px" height="70px">
+        <span>Beauty</span>
+      </a>
+      <a href="#" class="category-box">
+        <img src="images/gardening.png" alt="Fish" width="70px" height="70px">
+        <span>Gardening</span>
+      </a>
+    </div>
+  </section>
+  <!--category-end-->
+  <!---Popular-products-->
+  <section id="popular-product">
+    <!---heading-->
+    <div class="product-heading">
+      <h3>Popular Product</h3>
+      <span></span>
+    </div>
+    <!---product-box-container-->
+    <div class="product-container">
+      <!---box---->
+      <div class="product-box">
+        <img src="images/apple.jpg" alt="apple">
+        <strong>Apple</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹150</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/orange.jpg" alt="orange">
+        <strong>Orange</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹180</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/cauliflower.jpg" alt="cauliflower">
+        <strong>Cauliflower</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹35</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/onion.jpg" alt="onion">
+        <strong>Onion</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹25</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/potato.jpg" alt="apple">
+        <strong>Potato</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹30</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/lemon.jpg" alt="lemon">
+        <strong>Lemon</strong>
+        <span class="quantity">500 G</span>
+        <span class="price">₹100</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/mango.jpg" alt="mango">
+        <strong>Mango</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹350</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/raddish.jpg" alt="raddish">
+        <strong>Radish</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹40</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/carrot.jpg" alt="carrot">
+        <strong>Carrot</strong>
+        <span class="quantity">1 KG</span>
+        <span class="price">₹70</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!--popular-product-end-->
+
+
+
+
+  <!---Popular-bundle-pack-->
+  <section id="popular-bundle-pack">
+    <!--heading---->
+    <div class="product-heading">
+      <h3>Popular Bundle Pack</h3>
+    </div>
+
+
+    <div class="product-container">
+      <!---box---->
+      <div class="product-box">
+        <img src="images/pack.jpg" alt="pack">
+        <strong>Huge Pack</strong>
+        <span class="quantity">Apple, Tomato, Potato, +4</span>
+        <span class="price">₹600</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/large.jpg" alt="large">
+        <strong>Large Pack</strong>
+        <span class="quantity">Potato, Carrot, +3</span>
+        <span class="price">₹350</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+      <div class="product-box">
+        <img src="images/small.jpg" alt="small">
+        <strong>Small Pack</strong>
+        <span class="quantity">Orange, Potato, +2</span>
+        <span class="price">₹220</span>
+        <!--cart-btn--->
+        <a href="#" class="cart-btn">
+          <i class="fas fa-shopping-bag"></i> Add to Cart
+        </a>
+        <!--heart-btn-->
+        <a href="#" class="like-btn">
+          <i class="far fa-heart"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!--popular-bundle-pack-end--->
+
+  <!---Clients--->
+  <section id="clients">
+    <!--heading-->
+    <div class="client-heading">
+      <h3 style="color: #0dd134;">Client's feedback</h3>
+    </div>
+    <!--box-container-->
+    <div class="client-box-container">
+      <!--box--->
+      <div class="client-box">
+        <!--profile-->
+        <div class="client-profile">
+          <!--img-->
+          <img src="images/client1.png" alt="client1">
+          <!--text-->
+          <div class="profile-text">
+            <strong>Shweta Singh</strong>
+            <span>CEO</span>
+          </div>
+        </div>
+        <!---Rating-->
+        <div class="rating">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <!--comments-->
+        <p>Excellent website for online grocery ordering service. I'm delighted to see organic foods. Quick Shipping. Items of good quality. Customer service is excellent. Thanks to the eFresh team, I was able to save a considerable amount of time.
+          In general, the service was excellent.</p>
+      </div>
+
+
+      <!--box--->
+      <div class="client-box">
+        <!--profile-->
+        <div class="client-profile">
+          <!--img-->
+          <img src="images/client2.jpeg" alt="client2">
+          <!--text-->
+          <div class="profile-text">
+            <strong>Rohan Verma</strong>
+            <span>Manager</span>
+          </div>
+        </div>
+        <!---Rating-->
+        <div class="rating">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+
+        </div>
+        <!--comments-->
+        <p>This is an excellent and fantastic website for online groceries ordering. I'm very happy to see organic and fresh foods. eFresh provides variety of fresh foods. One thing I like about eFresh is that its service is excellent. Thanks to eFresh team.</p>
+      </div>
+      <!--box--->
+      <div class="client-box">
+        <!--profile-->
+        <div class="client-profile">
+          <!--img-->
+          <img src="images/client3.jpg" alt="client3">
+          <!--text-->
+          <div class="profile-text">
+            <strong>Vivek Chopra</strong>
+            <span>Assistant Manager</span>
+          </div>
+        </div>
+        <!---Rating-->
+        <div class="rating">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <!--comments-->
+        <p>This is an interesting website for online groceries shopping. I'm delighted to see organic foods. eFresh offers a wide variety of fresh foods. One thing I appreciate about eFresh is that its excellent customer service. Thank you, eFresh team.</p>
+      </div>
+  </section>
+  <!--client-section-end-->
+
+
+  <!--Partner logo--->
+  <section id="partner">
+    <!--heading---->
+    <div class="partner-heading">
+      <h3>Our Trusted Accomplice</h3>
+    </div>
+    <!--logo-container-->
+    <div class="logo-container">
+      <img src="images/logo2.png" alt="logo">
+      <img src="images/logo1.png" alt="logo">
+      <img src="images/logo3.png" alt="logo">
+      <img src="images/logo4.jpg" alt="logo">
+    </div>
+  </section>
+  <!---logo-section-end-->
+
+
+
+
+  <!---download-app--->
+  <section id="download-app">
+
+
+    <!---img---->
+    <div class="app-img">
+      <img src="images/mobile-app.png" alt="app">
+    </div>
+
+    <!---text---->
+    <div class="download-app-text">
+      <strong style="color: #0dd134;">Download App</strong>
+      <p>
+        <b>We have everything from fresh fruits and vegetables to frozen foods. Shopping made easy. Buy Groceries now.</b>
+      </p>
+      <!---btns-->
+      <div class="download-btns">
+        <a href="#">
+          <img src="images/appstore-btn.png" alt="">
+        </a>
+        <a href="#">
+          <img src="images/googleplay-btn.png" alt="">
+        </a>
+      </div>
+    </div>
+  </section>
+  <!--download-app-section-end--->
+
+
+
+  <!--Footer--->
+  <footer>
+    <div class="footer-container">
+       <!---logo-container-->
+       <div class="footer-logo">
+         <a href="#"><span>e</span>Fresh</a>
+         <!--social--->
+         <div class="footer-social">
+           <a href="#">
+             <i class="fa-brands fa-facebook" style="color: #3a87fe;"></i>
+             <i class="fa-brands fa-instagram" style="color: #e1306c;"></i>
+             <i class="fa-brands fa-twitter" style="color: #11d6cc;"></i>
+             <i class="fa-brands fa-youtube" style="color: #ff0800;"></i>
+           </a>
+         </div>
+       </div>
+       <!---links---->
+       <div class="footer-links">
+         <strong>Product</strong>
+         <ul>
+           <li>
+             <a href="#">Clothes</a>
+           </li>
+           <li>
+             <a href="#">Packages</a>
+           </li>
+           <li>
+             <a href="#">Popular</a>
+           </li>
+           <li>
+             <a href="#">New</a>
+           </li>
+         </ul>
+       </div>
+       <!---links---->
+       <div class="footer-links">
+         <strong>Category</strong>
+         <ul>
+           <li>
+             <a href="#">Beauty</a>
+           </li>
+           <li>
+             <a href="#">Meats</a>
+           </li>
+           <li>
+             <a href="#">Kids</a>
+           </li>
+           <li>
+             <a href="#">Clothes</a>
+           </li>
+         </ul>
+       </div>
+       <!---links---->
+       <div class="footer-links">
+         <strong>Contact</strong>
+         <ul>
+           <li>
+             <a href="#">Phone: +(91) 1234567890</a>
+           </li>
+           <li>
+             <a href="#">Email: example@gmail.com</a>
+           </li>
+         </ul>
+       </div>
+    </div>
+  </footer>
+</body>
+</html>
