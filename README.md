@@ -1,4 +1,4 @@
 # eFresh-Groceries-Website
-This is a Front End eFresh Groceries Website. In this Website a user can order/buy groceries.
+In a eFresh Groceries Website users can place grocery orders.
 
-https://valentinefernandes.github.io/eFresh-Groceries-Website/ Tap here for a quick preview of my project.
+You can visit my website by clicking here https://valentinefernandes.github.io/eFresh-Groceries-Website/ 
