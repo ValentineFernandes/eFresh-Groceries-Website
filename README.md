@@ -1,4 +1,11 @@
 # eFresh-Groceries-Website
-In a eFresh Groceries Website users can place grocery orders.
+ * a website to buy groceries.
+ * a mobile friendly website.
 
-You can visit my website by clicking here https://valentinefernandes.github.io/eFresh-Groceries-Website/ 
+# Technologies used
+ * HTML
+ * CSS
+ * Bootstrap
+
+# Visit the website here
+https://valentinefernandes.github.io/eFresh-Groceries-Website/ 
