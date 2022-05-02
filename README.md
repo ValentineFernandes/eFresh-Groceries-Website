@@ -11,4 +11,8 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 # Visit the website here
-https://valentinefernandes.github.io/eFresh-Groceries-Website/ 
+<a href="https://valentinefernandes.github.io/eFresh-Groceries-Website/">
+<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
+&nbsp;<a href="https://efreshgroceries.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
+
+
