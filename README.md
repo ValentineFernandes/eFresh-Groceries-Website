@@ -1,6 +1,7 @@
 # eFresh-Groceries-Website
  * a website to buy groceries.
  * a mobile friendly website.
+<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" />
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
