@@ -16,4 +16,5 @@
 <img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
 &nbsp;<a href="https://efreshgroceries.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 
-
+# License
+This project is under MIT license.
