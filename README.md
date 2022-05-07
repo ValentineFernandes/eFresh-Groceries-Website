@@ -1,6 +1,6 @@
 # eFresh-Groceries-Website
- * a website to buy groceries.
- * a mobile friendly website.
+✅ a website to buy groceries.<br/>
+✅ a mobile friendly website.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" />
 
 # Technologies used
@@ -18,3 +18,10 @@
 
 # License
 This project is under <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website/blob/main/LICENSE">MIT</a> license.
+
+# Contribution
+If you liked the project :<br/>
+✅ Give a star. ⭐ <br/>
+✅ Fork the repository.<br/>
+✅ Clone the project to your own computer.<br/>
+✅ Commit changes.
