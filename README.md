@@ -17,4 +17,4 @@
 &nbsp;<a href="https://efreshgroceries.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 
 # License
-This project is under MIT license.
+This project is under <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website/blob/main/LICENSE">MIT</a> license.
