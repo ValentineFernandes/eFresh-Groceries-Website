@@ -19,9 +19,4 @@
 # License
 This project is under <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website/blob/main/LICENSE">MIT</a> license.
 
-# Contribution
-If you liked the project :<br/>
-✅ Give a star. ⭐ <br/>
-✅ Fork the repository.<br/>
-✅ Clone the project to your own computer.<br/>
-✅ Download zip file.
+
