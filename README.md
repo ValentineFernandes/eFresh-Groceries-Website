@@ -1,4 +1,17 @@
 <h1 align="center">eFresh-Groceries-Website</h1>
+<p align="center">	
+  <a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+    <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-32CD32?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/PetDog-Complete-Website?color=success" />
+  </a>
+  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/eFresh-Groceries-Website?color=success" />
+  <img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/eFresh-Groceries-Website?color=success" />
+<img alt= "Repo size" src= "https://img.shields.io/github/repo-size/ValentineFernandes/eFresh-Groceries-Website?color=success" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/eFresh-Groceries-Website?color=success" />
+</p>
+
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eFreshGroceriesWebsite.png" />
 </div> 
