@@ -1,6 +1,6 @@
 # eFresh-Groceries-Website
-✅ a website to buy groceries.<br/>
-✅ a mobile friendly website.
+✅ In eFresh Groceries Website users can place grocery orders.<br/>
+✅ This website is compatible with mobile devices.
 <img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" />
  
 # Technologies used
