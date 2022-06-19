@@ -1,8 +1,12 @@
-# eFresh-Groceries-Website
+<h1 align="center">eFresh-Groceries-Website</h1>
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eFreshGroceriesWebsite.png" />
+</div> 
+
+# Features
 ✅ In eFresh Groceries Website users can place grocery orders.<br/>
 ✅ This website is compatible with mobile devices.
-<img align="left" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" />
- 
+
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
