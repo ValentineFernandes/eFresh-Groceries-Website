@@ -3,7 +3,7 @@
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eFreshGroceriesWebsite.png" />
 </div> 
 
-# Features
+# 📝 Features
 ✅ In eFresh Groceries Website users can place grocery orders.<br/>
 ✅ This website is compatible with mobile devices.
 
